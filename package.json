@@ -10,11 +10,15 @@
     "@react-three/fiber": "^8.15.11",
     "@react-three/drei": "^9.88.13"
   },
+  "resolutions": {
+    "three-mesh-bvh": "0.7.3"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "postinstall": "npm install three-mesh-bvh@0.7.3"
   },
   "devDependencies": {
     "react-scripts": "5.0.1"
