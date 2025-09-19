@@ -6,22 +6,23 @@
     "@tensorflow/tfjs": "^4.22.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "three": "^0.158.0",
-    "@react-three/fiber": "^8.15.11",
-    "@react-three/drei": "^9.88.13"
+    "three": "0.158.0",
+    "@react-three/fiber": "8.15.11",
+    "@react-three/drei": "9.88.13"
   },
   "resolutions": {
     "three-mesh-bvh": "0.7.3"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "GENERATE_SOURCEMAP=false react-scripts start",
+    "build": "GENERATE_SOURCEMAP=false react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "postinstall": "npm install three-mesh-bvh@0.7.3"
+    "preinstall": "npx npm-force-resolutions"
   },
   "devDependencies": {
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "npm-force-resolutions": "^0.0.10"
   },
   "browserslist": {
     "production": [
