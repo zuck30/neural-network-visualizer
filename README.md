@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=43CEA2&center=true&vCenter=true&width=500&height=70&lines=Neural+Network+Visualizer;3D+AI+Visualization;TensorFlow.js+%26+React;Interactive+Training;Built+by+Zuck30" alt="Typing Animation" />
 </div>
 
-![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20NeuralViz&textBg=false&desc=(Visualizing+AI+for+Learning)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
+![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=%20NeuralnetworkVisualization&textBg=false&desc=(Visualizing+AI+for+Learning)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
 <p align="center">An interactive 3D neural network visualizer built with TensorFlow.js, Three.js, and React. Crafted by <strong><a href="https://github.com/zuck30">Zuck30</a></strong> from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a></strong>.</p>
 
 <h3>Quick Links</h3>
@@ -14,7 +14,7 @@
 </div>
 
 <br>
-<a href="https://github.com/zuck30/neural-network-visualizer"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
+<a href="https://github.com/zuck30/neural-network-visualizer"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVqbWwzcTJzc240eXF3Y2RtM21qdjZnZW45bzVndnhkZWhzZ3NjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YknAouVrcbkiDvWUOR/giphy.gif" width="40%" align="right" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Coding GIF">
 </a>
 
 <ul>
