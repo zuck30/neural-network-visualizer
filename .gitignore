@@ -1,0 +1,57 @@
+
+# Node.js and npm
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Vite build artifacts
+dist/
+dist-ssr/
+vite.config.js.timestamp-*
+.vite/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Testing and coverage
+coverage/
+*.lcov
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Build and cache
+.cache/
+build/
+public/build/
+
+# Miscellaneous
+*.orig
+*.rej
