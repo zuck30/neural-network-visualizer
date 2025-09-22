@@ -98,6 +98,6 @@ This project is licensed under the MIT License, see the [LICENSE](LICENSE) file 
 
 For questions or issues, open a GitHub issue or contact [mwalyangashadrack@gmail.com](mailto:mwalyangashadrack@gmail.com).
 
-<h2>🎉 Get Involved!</h2>
+<h2>Get Involved!</h2>
 
-Join us in making neural networks fun and educational! Add new features, improve visualizations, or share feedback. 🇹🇿🤖
+Join me in making neural networks fun and educational.
