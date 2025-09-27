@@ -76,6 +76,11 @@
 - **Training Stats**: Displays metrics like loss and accuracy.
 
 
+<h2>Screenshot</h2>
+
+![screenshot](/screenshots/Screenshot%202025-09-27%20at%2014.36.50.png)
+
+
 <h2>☕️ Support the Project</h2>
 <p>
     <a href="https://www.buymeacoffee.com/zuck30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px"></a>
