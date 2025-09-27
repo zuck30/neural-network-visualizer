@@ -49,10 +49,7 @@ function App() {
 
   return (
     <div className="app">
-      <header className="app-header">
-        <h1>Neural Network Visualizer</h1>
-        <p>Interactive 3D visualization with TensorFlow.js and Three.js</p>
-      </header>
+   
       
       <div className="app-content">
         <div className="visualization-section">
