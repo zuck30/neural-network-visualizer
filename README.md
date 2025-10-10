@@ -1,5 +1,5 @@
 ![Banner](https://capsule-render.vercel.app/api?type=venom&height=160&color=0:43cea2,100:185a9d&text=%20NNV&textBg=false&desc=(Visualizing+AI+for+Learning)&descAlign=60&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
-<p align="center">An interactive 3D neural network visualizer built with TensorFlow.js, Three.js, and React. Repo built by <strong><a href="https://github.com/zuck30">Zuck30</a></strong> from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a></strong>.</p>
+<p align="center">An interactive 3D neural network visualizer built with TensorFlow.js, Three.js, and React. Crafted by <strong><a href="https://github.com/zuck30">Zuck30</a></strong> from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0htfv">Tanzania</a></strong>.</p>
 
 <h3>Quick Links</h3>
 
@@ -15,11 +15,11 @@
 
 <ul>
     <li>🔭 Visualizes neural networks in <a href="https://threejs.org">3D with Three.js</a>.</li>
-    <li>👨‍💻 Built with React and TensorFlow.js for real-time AI training.</li>
+    <li>👨‍💻 Real time AI training.</li>
     <li>🌍 Supports interactive learning for students and developers.</li>
 </ul>
 
-<h2 id="skills">Skills & Technologies</h2>
+<h2 id="skills">Technologies</h2>
 
 **Frontend**
 ![frontend](https://skillicons.dev/icons?i=react,js,threejs,tailwind,vite&perline=10)
@@ -30,15 +30,15 @@
 **Tools**
 ![tools](https://skillicons.dev/icons?i=git,github,vscode&perline=10)
 
-<h2> Project Overview</h2>
+<h2> Overview</h2>
 
-**Neural Network Visualizer** is an interactive web app that brings neural networks to life in 3D. Built with TensorFlow.js, Three.js, and React, it allows users to explore network architectures, visualize real-time training, and experiment with parameters like layers, neurons, and learning rates. Designed to make AI accessible, it supports educational use cases like XOR, Linear Regression, and Circle Classification.
+**Neural Network Visualizer** is an interactive web application that brings neural networks in 3D. Built with TensorFlow.js, Three.js, and React, it allows users to explore network architectures, visualize real time training, and experiment with parameters like layers, neurons, and learning rates. Designed to make AI accessible, it supports educational use cases like XOR, Linear Regression, and Circle Classification.
 
 - **3D Visualization**: See network layers, weights, and activations in real-time.
 - **Interactive Parameters**: Adjust layers, neurons, learning rate, and activation functions.
 - **Problem Types**: Train on XOR, Linear Regression, or Circle Classification.
 - **Training Metrics**: View real-time statistics and performance metrics.
-- **Tanzanian Focus**: Aims to inspire AI education in Tanzania and beyond.
+- **Tanzanian Focus**: I'm learning to aim to inspire AI education in Tanzania and beyond and learn myself daily.
 
 <h2>Quick Start</h2>
 
@@ -70,7 +70,7 @@
 <h2> Key Features</h2>
 
 - **3D Network Visualization**: Animated weights and activations using Three.js.
-- **Real-Time Training**: Watch neural networks train in real-time.
+- **Real Time Training**: Watch neural networks train in real-time.
 - **Adjustable Parameters**: Customize layers, neurons, learning rate, and more.
 - **Problem Types**: Supports XOR, Linear Regression, and Circle Classification.
 - **Training Stats**: Displays metrics like loss and accuracy.
@@ -81,7 +81,7 @@
 ![screenshot](/screenshots/Screenshot%202025-09-27%20at%2014.36.50.png)
 
 
-<h2>☕️ Support the Project</h2>
+<h2>☕️ Ninunulie Kahawa.</h2>
 <p>
     <a href="https://www.buymeacoffee.com/zuck30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px"></a>
 </p>
@@ -93,11 +93,6 @@ We welcome contributions to enhance Neural Network Visualizer! See the [CONTRIBU
 <h2>📄 License</h2>
 
 This project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
-<h2>🙏 Acknowledgments</h2>
-
-- TensorFlow.js for machine learning in the browser.
-- Three.js for 3D visualizations.
-- React community for robust frontend tools.
 
 <h2>📞 Support</h2>
 
