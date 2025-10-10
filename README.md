@@ -100,4 +100,4 @@ For questions or issues, open a GitHub issue or contact [mwalyangashadrack@gmail
 
 <h2>Get Involved!</h2>
 
-Join me in making neural networks fun and educational.
+Join me in making neural networks fun and educational, so we can learn each day.
