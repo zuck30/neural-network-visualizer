@@ -22,12 +22,15 @@
 <h2 id="skills">Technologies</h2>
 
 **Frontend**
+
 ![frontend](https://skillicons.dev/icons?i=react,js,threejs,tailwind,vite&perline=10)
 
 **Machine Learning**
+
 ![ml](https://skillicons.dev/icons?i=tensorflow&perline=10)
 
 **Tools**
+
 ![tools](https://skillicons.dev/icons?i=git,github,vscode&perline=10)
 
 <h2> Overview</h2>
