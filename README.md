@@ -33,15 +33,16 @@
 
 ![tools](https://skillicons.dev/icons?i=git,github,vscode&perline=10)
 
-<h2> Overview</h2>
+## Overview
 
-**Neural Network Visualizer** is an interactive web application that brings neural networks in 3D. Built with TensorFlow.js, Three.js, and React, it allows users to explore network architectures, visualize real time training, and experiment with parameters like layers, neurons, and learning rates. Designed to make AI accessible, it supports educational use cases like XOR, Linear Regression, and Circle Classification.
+**Neural Network Visualizer** is a web app for exploring neural networks in 3D. Built with TensorFlow.js, Three.js, and React, it visualizes real time training and supports parameter tweaks for XOR, Linear Regression, and Circle Classification. This repo is a hobby of mine since i started to learn tensorflow.js
 
-- **3D Visualization**: See network layers, weights, and activations in real-time.
-- **Interactive Parameters**: Adjust layers, neurons, learning rate, and activation functions.
-- **Problem Types**: Train on XOR, Linear Regression, or Circle Classification.
-- **Training Metrics**: View real-time statistics and performance metrics.
-- **Tanzanian Focus**: I'm learning to aim to inspire AI education in Tanzania and beyond and learn myself daily.
+### Key Features
+- **3D Visualization**: View layers, weights, and activations in real time.
+- **Interactive Controls**: Adjust layers, neurons, and learning rates.
+- **Problem Types**: Train on XOR, Linear Regression, and Circle Classification.
+- **Metrics**: Monitor real time performance and loss.
+- **Educational Focus**: Enhances AI learning for Tanzanian and global audiences.
 
 <h2>Quick Start</h2>
 
@@ -81,8 +82,8 @@
 <h2> TODO::</h2>
 
 - Add more problems to visualize.
-- expand to desktop application.
-
+- Add more features.
+- Consider desktop application.
 
 <h2>Screenshot</h2>
 
