@@ -89,7 +89,7 @@
 ![screenshot](/screenshots/Screenshot%202025-09-27%20at%2014.36.50.png)
 
 
-<h2>☕️ Ninunulie Kahawa. Yes i'm that dumb, i need coffee to stay alive.</h2>
+<h2>☕️ Yes i'm that dumb, i need coffee to stay alive.</h2>
 <p>
     <a href="https://www.buymeacoffee.com/zuck30" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px"></a>
 </p>
