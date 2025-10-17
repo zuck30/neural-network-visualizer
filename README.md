@@ -31,7 +31,7 @@
 
 **Tools**
 
-![tools](https://skillicons.dev/icons?i=git,github,vscode&perline=10)
+![tools](https://skillicons.dev/icons?i=apple,git,github,vscode&perline=10)
 
 ## Overview
 
