@@ -101,7 +101,7 @@ We welcome contributions to enhance Neural Network Visualizer! See the [CONTRIBU
 
 <h2>📄 License</h2>
 
-This project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. [LICENSE](LICENSE).
 
 <h2>📞 Support</h2>
 
