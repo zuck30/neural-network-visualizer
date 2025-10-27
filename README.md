@@ -85,9 +85,13 @@
 - Add more features.
 - Consider desktop application.
 
-<h2>Screenshot</h2>
+<h2>The Dashboard </h2>
 
-![screenshot](/screenshots/Screenshot%202025-09-27%20at%2014.36.50.png)
+![screenshot](/screenshots/shot-1.png)
+
+<h2>Training </h2>
+
+![screenshot](/screenshots/shot-2.png)
 
 
 <h2>☕️ Yes i'm that dumb, i need coffee to stay alive.</h2>
@@ -106,7 +110,3 @@ This project is licensed under the MIT License. [LICENSE](LICENSE).
 <h2>📞 Support</h2>
 
 For questions or issues, open a GitHub issue or contact [mwalyangashadrack@gmail.com](mailto:mwalyangashadrack@gmail.com).
-
-<h2>Get Involved!</h2>
-
-Join me in making neural networks fun and educational, so we can learn and debug each day.
