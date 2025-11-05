@@ -8,7 +8,7 @@
 <div align="left">
     <a href="mailto:mwalyangashadrack@gmail.com"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=flat-square&logo=gmail" alt="Email"></a>
     <a href="https://sheddysilicon.netlify.app"><img src="https://img.shields.io/badge/Portfolio-30302f?style=flat-square&logo=firefox" alt="Me."></a>
-    <a href="https://github.com/zuck30/neural-network-visualizer"><img src="https://img.shields.io/badge/Repository-30302f?style=flat-square&logo=github" alt="GitHub"></a>
+    <a href="https://github.com/zuck30/neural-network-studio"><img src="https://img.shields.io/badge/Repository-30302f?style=flat-square&logo=github" alt="GitHub"></a>
 </div>
 
 <br>
@@ -61,8 +61,8 @@
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/zuck30/neural-network-visualizer.git
-   cd neural-network-visualizer
+   git clone https://github.com/zuck30/neural-network-studio.git
+   cd neural-network-studio
    ```
 
 2. **Install dependencies**:
