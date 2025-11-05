@@ -53,9 +53,10 @@
 
   <a href="https://github.com/zuck30"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc2MmlmOWlkOWh2MWVqNDFhOGxyaDFkZ3NnZzEwYmJrcmRzOXBlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMvTcZsTCkxtm/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt=""
   align ="right"></a>
-  
 
 </p>
+
+<br>
 
 <h2>Quick Start</h2>
 
