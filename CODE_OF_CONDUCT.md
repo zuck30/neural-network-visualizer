@@ -23,7 +23,7 @@ We, the maintainers and contributors of **Neural Network Visualizer**, pledge to
 ## Scope
 
 This Code of Conduct applies to all project spaces, including:
-- GitHub repository ([https://github.com/zuck30/neural-network-visualizer](https://github.com/zuck30/neural-network-visualizer)).
+- GitHub repository ([https://github.com/zuck30/neural-network-studio](https://github.com/zuck30/neural-network-studio)).
 - Issues, pull requests, and discussions.
 - External platforms (e.g., X, email) when discussing the project.
 
