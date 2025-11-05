@@ -5,14 +5,14 @@ Thank you for your interest in contributing to **Neural Network Visualizer**! Th
 ##  How to Contribute
 
 ### 1. Fork the Repository
-- Navigate to [https://github.com/zuck30/neural-network-visualizer](https://github.com/zuck30/neural-network-visualizer).
+- Navigate to [https://github.com/zuck30/neural-network-studio](https://github.com/zuck30/neural-network-studio).
 - Click **Fork** to create a copy under your GitHub account.
 
 ### 2. Clone Your Fork
 - Clone your forked repository:
   ```bash
-  git clone https://github.com/your-username/neural-network-visualizer.git
-  cd neural-network-visualizer
+  git clone https://github.com/your-username/neural-network-studio.git
+  cd neural-network-studio
   ```
 
 ### 3. Create a Feature Branch
@@ -55,7 +55,7 @@ Thank you for your interest in contributing to **Neural Network Visualizer**! Th
   ```
 
 ### 8. Open a Pull Request
-- Go to [https://github.com/zuck30/neural-network-visualizer](https://github.com/zuck30/neural-network-visualizer).
+- Go to [https://github.com/zuck30/neural-network-studio](https://github.com/zuck30/neural-network-studio).
 - Click **Compare & pull request**, selecting your branch.
 - Provide a detailed description, e.g.:
   - What changed and why.
@@ -69,7 +69,7 @@ Thank you for your interest in contributing to **Neural Network Visualizer**! Th
 - Approved changes will be merged into `main`.
 
 ##  Reporting Bugs
-- Check [Issues](https://github.com/zuck30/neural-network-visualizer/issues) to avoid duplicates.
+- Check [Issues](https://github.com/zuck30/neural-network-studio/issues) to avoid duplicates.
 - Open a new issue with:
   - Clear title and description.
   - Steps to reproduce.
