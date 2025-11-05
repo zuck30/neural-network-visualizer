@@ -51,7 +51,7 @@
   <a href="https://github.com/zuck30"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVqbWwzcTJzc240eXF3Y2RtM21qdjZnZW45bzVndnhkZWhzZ3NjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YknAouVrcbkiDvWUOR/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Anime GIF"></a>
   <a href="https://github.com/zuck30"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc2MmlmOWlkOWh2MWVqNDFhOGxyaDFkZ3NnZzEwYmJrcmRzOXBlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMvTcZsTCkxtm/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Anime GIF"></a>
   <a href="https://github.com/zuck30"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJlcGc0aDBnNTF0Y2N0aTFicmE0dXg0Njlyc3FqMDZlNWgweDlqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r1v5DUx0GzmpSfCMBc/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="Breaking Bad GIF"></a>
-  <a href="https://github.com/zuck30"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF0aXBsYnR0YmY2NmJnajByNnV6MWp6a3lnbjlvYmVlNTlsdDJzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FmQ9BjfbxfxW9QA/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="The Social Network GIF"></a>
+  <a href="https://github.com/zuck30"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZqNnMwbGh3YnJ4anRlbWQwZDNoemVoeWczM3FiZ2d0OHpqd252cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7jMJgnTc0iOtK0cybf/giphy.gif" width="40%" style="border-radius:10px; animation: float 6s ease-in-out infinite;" alt="The Social Network GIF"></a>
 </p>
 
 
