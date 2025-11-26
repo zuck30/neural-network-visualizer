@@ -2,15 +2,7 @@
 # Node.js and npm
 node_modules/
 npm-debug.log
-yarn-error.log
 package-lock.json
-yarn.lock
-
-# Vite build artifacts
-dist/
-dist-ssr/
-vite.config.js.timestamp-*
-.vite/
 
 # Environment variables
 .env
@@ -21,16 +13,10 @@ vite.config.js.timestamp-*
 
 # Editor and IDE files
 .vscode/
-.idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.swp
 
 # Operating system files
 .DS_Store
-Thumbs.db
+
 
 # Logs
 logs/
@@ -51,7 +37,3 @@ coverage/
 .cache/
 build/
 public/build/
-
-# Miscellaneous
-*.orig
-*.rej
